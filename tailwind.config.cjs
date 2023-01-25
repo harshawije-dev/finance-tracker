@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         btnPrimary: "#1a73e8",
+        fontPrimary: "#1c1c1c",
       },
     },
   },
